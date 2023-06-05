@@ -12,7 +12,7 @@ Após baixar o projeto, você pode abri-lo com o Eclipse IDE 2022-12. Para isso,
 - Para rodar as telas, será necessário o plug-in WindowBuilder para Eclipse, o qual pode ser instalado através da própria IDE: 
 Vá até a opção Help -> Selecione Eclipse Marketplace -> Digite Window Builder no Campo de busca e selecione a opção Window Builder.
 
-### :hammer_and_pick: Regras do jogo 
+###  ⚠️ Regras do jogo 
 ---
 - Cada partida começa com um tabuleiro dividido em vários quadrados sem qualquer marcação. Depois de clicar em um deles, os quadrados em volta desaparecem: alguns ficarão brancos, enquanto outros terão números. Com a ajuda dos números, será possível descobrir quais possuem minas e quais podem ser clicados.
 - Não é preciso nada além do mouse para jogar; com o botão esquerdo, você clica para revelar o que está escondido no campo, enquanto que com o direito você pode marcar os espaços que você julga ter uma bomba escondida.
