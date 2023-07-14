@@ -1,4 +1,4 @@
-# campo-minado
+# Campo-minado
 Jogo
 <p>
 <img src="https://img.shields.io/badge/STATUS-COMPLETO-green"/>
